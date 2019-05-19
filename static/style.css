@@ -1,3 +1,19 @@
+.mapHeader {
+    padding: 10px 16px;
+    background: #555;
+    color: #f1f1f1;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.mapDisplay {
+    position: fixed;
+    padding: 0px 0px;
+    padding-top: 102px;
+    width: 100%;
+}
+
 html {
     font-family: sans-serif;
     background: #eee;
